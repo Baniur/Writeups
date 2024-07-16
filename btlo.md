@@ -52,6 +52,7 @@
 <h4>DIGITAL FORENSICS</h4>
 <ul>
 <li><strong>Bad Logic</strong></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-evil-maid-2e724ba1c062" title="BTLO - Evil Maid"><strong>Evil Maid</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-pretium-v2-bae106dae574" title="BTLO - Pretium v2"><strong>Pretium v2</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-the-key-e5f4d68c72cf" title="BTLO - The Key"><strong>The Key</strong></a></li>
 </ul>
