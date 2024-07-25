@@ -28,7 +28,7 @@
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-bot-85deba9e8af8" title="BTLO - Bot"><strong>Bot</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-obfuscated-48fc1f854a1d" title="BTLO - Obfuscated"><strong>Obfuscated</strong></a></li>
-<li><strong>Pretium</strong></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-pretium-86c787550caf" title="BTLO - Pretium"><strong>Pretium</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-the-last-jedi-7cc47448ac8b" title="BTLO - The Last Jedi"><strong>The Last Jedi</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-total-recall-c02b0885a734" title="BTLO - Total Recall"><strong>Total Recall</strong></a></li>
 </ul>
