@@ -42,6 +42,7 @@
 
 <h4>SECURITY OPERATIONS</h4>
 <ul>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-hashish-c94534f46c51" title="BTLO - Hashish"><strong>Hashish</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-peak-e0d3e35d8283" title="BTLO - Peak"><strong>Peak</strong></a></li>
 <li><strong>Peak 2</strong></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-soc-alpha-2-f60743a968f8" title="BTLO - SOC Alpha 2"><strong>SOC Alpha 2</strong></a></li>
