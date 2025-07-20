@@ -4,13 +4,7 @@
 
 <h4>ENDPOINT FORENSICS</h4>
 <ul>
-<li><strong>Amadey</strong></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1598-002-9721d8d026d1" title="Cyberdefenders - MITRE-T1598.002"><strong>MITRE-T1598.002</strong></a></li>
-</ul>
-
-<h4>MALWARE ANALYSIS</h4>
-<ul>
-<li><strong>RAR-CVE</strong></li>
 </ul>
 
 <h4>NETWORK FORENSICS</h4>
@@ -28,7 +22,6 @@
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-1583-002-e099b8049ee6" title="Cyberdefenders - MITRE-T1583.002"><strong>MITRE-T1583.002</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1584-004-5148c28163a" title="Cyberdefenders - MITRE-T1584.004"><strong>MITRE-T1584.004</strong></a></li>
-<li><strong>YellowRAT</strong></li>
 </ul>
 
 <h3>### Medium ###</h3>
@@ -40,17 +33,15 @@
 
 <h4>ENDPOINT FORENSICS</h4>
 <ul>
+<li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-brave-ab7b652dd875" title="Cyberdefenders - Brave"><strong>Brave</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-eli-481d2021defe" title="Cyberdefenders - Eli"><strong>Eli</strong></a></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-krakenkeylogger-a8a3d4c40941" title="Cyberdefenders - KrakenKeylogger"><strong>KrakenKeylogger</strong></a></li>
-<li><strong>MITRE-T1197</strong></li>
+<li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-silent-breach-3648d754cec5" title="Cyberdefenders - Silent Breach"><strong>Silent Breach</strong></a></li>
 </ul>
 
 <h4>MALWARE ANALYSIS</h4>
 <ul>
-<li><strong>APT35</strong></li>
-<li><strong>MITRE-T1059.007</strong></li>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-mitre-t1547-e7096364f5bc" title="Cyberdefenders - MITRE-T1547.001"><strong>MITRE-T1547.001</strong></a></li>
-<li><strong>Tele$tealer</strong></li>
 </ul>
 
 <h3>### Difficult ###</h3>
@@ -58,7 +49,6 @@
 <h4>MALWARE ANALYSIS</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/cyberdefenders-write-up-oceanlotus-af81fdacb04a" title="Cyberdefenders - OceanLotus"><strong>OceanLotus</strong></a></li>
-<li><strong>ProPDF</strong></li>
 </ul>
 
 <h4>NETWORK FORENSICS</h4>
