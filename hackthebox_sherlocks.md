@@ -1,4 +1,4 @@
-<h2>Platform: Sherlocks by <a href="https://www.hackthebox.com/" title="HackTheBox">HackTheBox</a> <img src="https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg" width="2%" height="2%" /> </h2>
+<h2>Platform: Sherlocks by <a href="https://www.hackthebox.com/" title="HackTheBox">HackTheBox</a> <img src="https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg" width="10%" height="10%" /> </h2>
 
 <h3>### Very Easy ###</h3>
 
