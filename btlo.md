@@ -2,6 +2,11 @@
 
 <h3>### Easy ###</h3>
 
+<h4>DIGITAL FORENSICS</h4>
+<ul>
+<li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-trash-ec570da096b4" title="BTLO - Trash"><strong>Trash</strong></a></li>
+</ul>
+
 <h4>INCIDENT RESPONSE</h4>
 <ul>
 <li><a href="https://medium.com/@krzysztof.kuzin/btlo-write-up-doctor-5fdfcb1d72fa" title="BTLO - Doctor"><strong>Doctor</strong></a></li>
