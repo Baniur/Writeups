@@ -1,4 +1,4 @@
-<h2>CTFs</h2>
+## 🚩 Capture The Flag events
 
 <h3>### Easy ###</h3>
 <ul>
