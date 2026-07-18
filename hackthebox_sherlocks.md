@@ -4,5 +4,5 @@
 
 <h4>DFIR</h4>
 <ul>
-<li><a href="https://medium.com/@krzysztof.kuzin/hack-the-box-sherlocks-smartypants-618780918b7f" title="HackTheBox Sherlocks - SmartyPants"><strong>SmartyPants</strong></a></li>
+<li><a href="https://krzysztofkuzin.substack.com/p/hack-the-box-sherlocks-smartypants" title="HackTheBox Sherlocks - SmartyPants"><strong>SmartyPants</strong></a></li>
 </ul>
