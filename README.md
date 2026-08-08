@@ -18,4 +18,5 @@
 
 <ul>
 <li><a href="https://github.com/Baniur/Writeups/blob/main/CTFs.md" title="Capture The Flag events (CTFs)"><strong>Capture The Flag events</strong></a> (CTFs)</li>
+<li><a href="https://github.com/Baniur/Writeups/blob/main/certs-exams-reviews.md" title="Certifications and Exams reviews"><strong>Certifications and Exams reviews</strong></a></li>
 </ul>
