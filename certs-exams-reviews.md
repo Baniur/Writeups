@@ -16,7 +16,7 @@
 <h3>### TCM (The Cyber Mentor) Security ###</h3>
 <ul>
 <li><a href="https://krzysztofkuzin.substack.com/p/practical-soc-analyst-associate-psaa" title="Practical SOC Analyst Associate (PSAA)"><strong>Practical SOC Analyst Associate (PSAA)</strong></a></li>
-<li>Practical SOC Analyst Professional (PSAP) [**IN PROGRESS**]</li>
+<li><a href="https://krzysztofkuzin.substack.com/p/practical-soc-analyst-professional" title="Practical SOC Analyst Professional (PSAP)"><strong>Practical SOC Analyst Professional (PSAP)</strong></a></li>
 </ul>
 
 <h3>### TryHackMe ###</h3>
