@@ -22,5 +22,5 @@
 <h3>### TryHackMe ###</h3>
 <ul>
 <li><a href="https://krzysztofkuzin.substack.com/p/security-analyst-level-1-sal1" title="Security Analyst Level 1 (SAL1)"><strong>Security Analyst Level 1 (SAL1)</strong></a></li>
-<li>Security Analyst Level 2 (SAL2) [**IN PROGRESS**]</li>
+<li><a href="https://krzysztofkuzin.substack.com/p/security-analyst-level-2-sal2" title="Security Analyst Level 2 (SAL2)"><strong>Security Analyst Level 2 (SAL2)</strong></a></li>
 </ul>
