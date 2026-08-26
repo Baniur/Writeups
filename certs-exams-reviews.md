@@ -1,6 +1,6 @@
 ## 👨‍🎓 Certifications and Exams reviews
 
-<h3>### Centri (former Security Blue Team ###</h3>
+<h3>### Centri (former Security Blue Team) ###</h3>
 <ul>
 <li><a href="https://krzysztofkuzin.substack.com/p/blue-team-level-2-btl2" title="Blue Team Level 2 (BTL2)"><strong>Blue Team Level 2 (BTL2)</strong></a></li>
 <li><a href="https://krzysztofkuzin.substack.com/p/certified-security-operations-manager" title="Certified Security Operations Manager (CSOM)"><strong>Certified Security Operations Manager (CSOM)</strong></a></li>
