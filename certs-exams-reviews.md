@@ -1,5 +1,13 @@
 ## 👨‍🎓 Certifications and Exams reviews
 
+<h3>### 13Cubed ###</h3>
+<ul>
+<li><a href="https://krzysztofkuzin.substack.com/p/investigating-windows-endpoints-iwe" title="13Cubed - Investigating Windows Endpoints (IWE)"><strong>Investigating Windows Endpoints (IWE)</strong></a></li>
+<li><strong>Investigating Windows Memory</strong></li>
+<li><strong>Investigating Linux Devices</strong></li>
+<li><strong>Investigationg macOS Endpoints</strong></li>
+</ul>
+
 <h3>### Centri (former Security Blue Team) ###</h3>
 <ul>
 <li><a href="https://krzysztofkuzin.substack.com/p/blue-team-level-2-btl2" title="Blue Team Level 2 (BTL2)"><strong>Blue Team Level 2 (BTL2)</strong></a></li>
