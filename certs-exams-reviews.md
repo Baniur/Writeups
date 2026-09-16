@@ -12,7 +12,7 @@
 <ul>
 <li><a href="https://krzysztofkuzin.substack.com/p/blue-team-level-2-btl2" title="Blue Team Level 2 (BTL2)"><strong>Blue Team Level 2 (BTL2)</strong></a></li>
 <li><a href="https://krzysztofkuzin.substack.com/p/certified-security-operations-manager" title="Certified Security Operations Manager (CSOM)"><strong>Certified Security Operations Manager (CSOM)</strong></a></li>
-<li><a href="https://krzysztofkuzin.substack.com/p/certified-junior-detection-engineer" title="Certified Junior Detection Engineer (CJDE)"><strong>Certified Junior Detection Engineer (CJDE)</strong></a></li>
+<li><a href="https://krzysztofkuzin.substack.com/p/certified-junior-detection-engineer" title="Certified Junior Detection Engineer (CJDE)"><strong>Certified Junior Detection Engineer (CJDE)</strong></a> (CDEA since September 2026)</li>
 </ul>
 
 <h3>### CyberDefenders ###</h3>
