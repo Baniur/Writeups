@@ -3,9 +3,9 @@
 <h3>### 13Cubed ###</h3>
 <ul>
 <li><a href="https://krzysztofkuzin.substack.com/p/investigating-windows-endpoints-iwe" title="13Cubed - Investigating Windows Endpoints (IWE)"><strong>Investigating Windows Endpoints (IWE)</strong></a></li>
-<li><strong>Investigating Windows Memory</strong></li>
-<li><strong>Investigating Linux Devices</strong></li>
-<li><strong>Investigationg macOS Endpoints</strong></li>
+<li><strong>Investigating Windows Memory (IWM)</strong></li>
+<li><strong>Investigating Linux Devices (ILD)</strong></li>
+<li><strong>Investigationg macOS Endpoints (IME)</strong></li>
 </ul>
 
 <h3>### Centri (former Security Blue Team) ###</h3>
