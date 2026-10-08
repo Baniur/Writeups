@@ -5,7 +5,7 @@
 <li><a href="https://krzysztofkuzin.substack.com/p/investigating-windows-endpoints-iwe" title="13Cubed - Investigating Windows Endpoints (IWE)"><strong>Investigating Windows Endpoints (IWE)</strong></a> 🪟</li>
 <li><a href="https://krzysztofkuzin.substack.com/p/investigating-windows-memory-iwm" title="13Cubed - Investigating Windows Memory (IWM)"><strong>Investigating Windows Memory (IWM)</strong></a> 🪟</li>
 <li><a href="https://krzysztofkuzin.substack.com/p/investigating-linux-devices-ild" title="13Cubed - Investigating Linux Devices (ILD)"><strong>Investigating Linux Devices (ILD)</strong></a> 🐧</li>
-<li><a href="https://krzysztofkuzin.substack.com/p/investigationg-macos-endpoints-ime" "13Cubed - Investigationg macOS Endpoints (IME)"><strong>Investigating macOS Endpoints (IME)</strong></a> 🍎</li>
+<li><a href="https://krzysztofkuzin.substack.com/p/investigationg-macos-endpoints-ime" "13Cubed - Investigating macOS Endpoints (IME)"><strong>Investigating macOS Endpoints (IME)</strong></a> 🍎</li>
 </ul>
 
 <h3>### Centri (former Security Blue Team) ###</h3>
