@@ -23,7 +23,8 @@
 
 <h3>### Cybrixen ###</h3>
 <ul>
-<li><a href="https://krzysztofkuzin.substack.com/p/cybrixen-certified-soc-analyst-ccsa" title="Cybrixen Certified SOC Analyst (CCSA)"><strong>Cybrixen Certified SOC Analyst (CCSA)</strong></a></li>
+<li><a href="https://krzysztofkuzin.substack.com/p/cybrixen-certified-soc-analyst-ccsa" title="Cybrixen Certified SOC Analyst (CCSA)"><strong>CYBRIXEN Certified SOC Analyst (CCSA)</strong></a></li>
+<li><a href="https://krzysztofkuzin.substack.com/p/cybrixen-certified-cyber-ready-cccr" title="CYBRIXEN Certified Cyber Ready (CCCR)"><strong>CYBRIXEN Certified Cyber Ready (CCCR)</strong></a></li>
 </ul>
 
 <h3>### TCM (The Cyber Mentor) Security ###</h3>
