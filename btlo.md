@@ -26,6 +26,7 @@
 
 <h4>DIGITAL FORENSICS</h4>
 <ul>
+<li><a href="https://krzysztofkuzin.substack.com/p/btlo-glazed" title="BTLO - Glazed"><strong>Glazed</strong></a></li>  
 <li><a href="https://krzysztofkuzin.substack.com/p/btlo-poor-joe" title="BTLO - Poor Joe"><strong>Poor Joe</strong></a></li>
 <li><a href="https://krzysztofkuzin.substack.com/p/btlo-shimmerward-eye" title="BTLO - Shimmerward Eye (FrostByte 2025)"><strong>Shimmerward Eye</strong></a> (#1 - ❄️ FrostByte 2025 ☃️)</li>
 <li><a href="https://krzysztofkuzin.substack.com/p/btlo-sticky-situation" title="BTLO - Sticky Situation"><strong>Sticky Situation</strong></a></li>
